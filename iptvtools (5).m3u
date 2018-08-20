@@ -19,3 +19,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19094.ts
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18389.ts
 #EXTINF:-1,IT: TV 2000
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11771.ts
+#EXTM3U
+#EXTINF:-1,Sport Klub 1
+http://tv.smartal.net:25461/live/C2vYsIvBck/TlJsAf8Du5/232.ts
