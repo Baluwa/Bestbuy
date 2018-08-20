@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,FR1: beIN SPORTS 1HD
+http://54.37.255.204:9977/live/leon/iptv/30707.ts
+#EXTINF:-1,iptvtools_2
+http://54.37.255.204:9977/live/leon/iptv/30812.ts
+#EXTINF:-1,iptvtools_3
+http://54.37.255.204:9977/live/leon/iptv/30694.ts
+#EXTINF:-1,iptvtools_4
+http://iptvtool.es:9977/live/CAMI/CAMI/30823.ts
+#EXTINF:-1,iptvtools_5
+http://iptvtool.es:9977/live/CAMI/CAMI/30617.ts
+#EXTINF:-1,iptvtools_6
+http://iptvtool.es:9977/live/CAMI/CAMI/30697.ts
